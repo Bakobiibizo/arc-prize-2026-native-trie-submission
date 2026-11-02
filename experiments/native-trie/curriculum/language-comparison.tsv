@@ -1,0 +1,12 @@
+known	car	63 61 72
+known	cat	63 61 74
+known	cars	63 61 72 73
+known	cafe	63 61 66 65
+known	café	63 61 66 c3a9
+known	C	43
+known	é	c3a9
+known	€	e282ac
+known	😀	f09f9880
+unknown	ca	63 61
+unknown	cart	63 61 72 74
+unknown	cafés	63 61 66 c3a9 73

@@ -1,0 +1,15 @@
+{
+  "origin": "Operator blue-gap-blue example and controlled structural transfer checks; not public ARC targets or an independent benchmark",
+  "palette": {"blue": 1, "gap": 0, "pink": 6},
+  "train": [{"input": [[1,0,1],[0,1,0],[1,0,1]], "output": [[1,6,1],[0,1,0],[1,6,1]]}],
+  "tests": [
+    {"id":"original", "input":[[1,0,1],[0,1,0],[1,0,1]], "expected":[[1,6,1],[0,1,0],[1,6,1]]},
+    {"id":"horizontal7", "input":[[1,0,1,0,1,0,1]], "expected":[[1,6,1,6,1,6,1]]},
+    {"id":"vertical3", "input":[[1],[0],[1]], "expected":[[1],[0],[1]]},
+    {"id":"vertical7", "input":[[1],[0],[1],[0],[1],[0],[1]], "expected":[[1],[0],[1],[0],[1],[0],[1]]},
+    {"id":"crossing", "input":[[0,1,0],[1,0,1],[0,1,0]], "required_center":null},
+    {"id":"unseenline", "input":[[1,0,0]], "required_center":null},
+    {"id":"unseencolor", "input":[[2,0,2]], "required_center":null},
+    {"id":"nextstate", "input":[[1,6,1],[0,1,0],[1,6,1]], "required_cell":[0,1], "required_value":null}
+  ]
+}

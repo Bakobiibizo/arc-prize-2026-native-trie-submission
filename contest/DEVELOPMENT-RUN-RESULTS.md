@@ -1,0 +1,11 @@
+# Actual local notebook development run
+
+Origin operator asks to run local setup; explicitlyLOCAL/no upload/publication/submission. Pinnedprivatebundle source75ac135, runner da2e17b, unchangednative--source-groups. Exactprior50historicaldevelopmenttasks/51outputs/157trainingpairs/memberSHA; notfreshvalidation/leaderboard. `contest/run_development.py` executedtheactualbundlednotebookcodecells in freshPythonprocess with Pythonnetworkblocked, realARMworker. No model/sourcechanges/retries.
+
+Actualnotebookstatus0/stderrempty/no supervisortimeout. All50workers0/fullrefclosedproofs, no budgetskips, 14.322840s localadapterwalltime. Source/archive/memberhasheschecked; all50gzipCRC/decompressedrawSHA independentlyreverified. Prediction/status/provenance/submission frozenBEFOREqueryexpectedfieldsread; separate solutions-after-freeze.json thenfull-denominatorexactscoring. submission.json structurallyvalid/allIDs/alltestoutputs/exact2attempts. Nativepredictions/copycounts/statuses matchALLprior50workerpredictionstreams exactly.
+
+**1/51 exact = 1.960784%.** Onelearnedoutputcorrect;50baselinecopy-inputoutputs/0baselinecorrect. Bothattemptsduplicateoneprediction/notindependentsearch. Harnessworks; learnerperformanceUNCHANGED. Doesnotestablishpartnerreadiness; numericthresholdUNSET. No independentaccuracyclaim/no resultpooling/nocriterionrelaxation. Currentnative1/51remainsdevelopmentonly.
+
+Artifacts `evidence/contest-development-run-001/`: protocol/members/challenges, notebookstdout/stderr/status, working/submission.json, working/historical-local-run/manifest andall-predictions-frozen/proofs, solutions-after-freeze.json/scores/result.json. SubmissionSHA3e886e0fc0fc943daec71a48e293821c045b998bc0bf33d8eabbabc1fee58e42. FreezeSHA9685b0d48020a149c460a5cfcdaa1d0eef04f3bc3bd5d6d7add5b5496bb802d9.
+
+Bounds30sworker/300scohort chosenfrompriorsame50protocol, notdefault10h/fullKaggle12hguarantee;390ssupervisor. Native286720000owned-treecapunchanged/notRSS; Python/source/import/record/exportseparate. ARMhosttimingNOTKaggle/x86validation; crossbinarypreviouslybuiltbutunexecutedhere. No Kaggle API/credentials/upload/publication/submission. Nextprimaryresearchnative-property-action-partitions, notanotherunchangedbenchmarkrerun.

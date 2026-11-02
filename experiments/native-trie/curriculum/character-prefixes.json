@@ -1,0 +1,33 @@
+{
+  "origin": "recovered Conceiver scalar-identity construction",
+  "source_revision": "1aa20cee64452d8946e1410c9765761000476109",
+  "source_hashes": {
+    "references/conceiver-unicode-transfer/unicode-character-identity.ts": "11c4c9d4e250ffe9141498607030bda1b3a31ae8dbe4d65d026c32c19d24b86f",
+    "references/conceiver-unicode-transfer/unicode-code-point-addressing.ts": "0f32074eb3d5b1ecfb8ef816b06874c086c1bdca3335bdb1452434aa8d28c2cf"
+  },
+  "width": 21,
+  "ranges": [
+    [
+      0,
+      55295
+    ],
+    [
+      57344,
+      1114111
+    ]
+  ],
+  "prefixes": [
+    "000000",
+    "0000010",
+    "000001100",
+    "0000011010",
+    "00000111",
+    "00001",
+    "0001",
+    "001",
+    "01",
+    "10000"
+  ],
+  "scalar_count": 1112064,
+  "compiler_sha256": "257d382b4b35582159a197994b16420756c40e2105900a0b0fd23800ed483146"
+}
