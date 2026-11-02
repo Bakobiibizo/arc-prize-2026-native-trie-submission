@@ -50,4 +50,4 @@ The notebook expects Kaggle-mounted competition data and a dataset containing th
 
 ## Licensing
 
-No license grant is included in this initial publication. The source is publicly inspectable, but reuse rights remain reserved until the repository owner selects a license.
+Licensed under the [Apache License 2.0](LICENSE).
